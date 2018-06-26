@@ -15,6 +15,10 @@ a {
   color: red;
 }
 
+a:hover {
+    color: black;
+}
+
 figcaption {
   font-size: 20px;
   font-weight: bold;
